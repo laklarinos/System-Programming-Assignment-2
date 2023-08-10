@@ -1,0 +1,6 @@
+8999 Thanos Lakes 21 Italy HTC NO
+8999 Thanos Lakes 21 Italy HIV YES 1-1-2009
+9999 Thanos Lakes 21 Italy HIV YES 1-1-2020
+1099 Thanos Lakes 21 Italy COCA1 YES 1-1-2020
+8999 Thanos Lakes 21 Italy COCA2 NO
+7999 Thanos Lakes 21 Italy COCA23 YES 1-1-1999

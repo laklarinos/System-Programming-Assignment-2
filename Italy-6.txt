@@ -1,0 +1,10 @@
+9010 Thanos Lakes 21 Italy COCA NO
+9011 Thanos Lakes 21 Italy COCA1 YES 1-1-2020
+9000 Thanos Lakes 21 Italy COCA2 YES 1-1-2019
+9000 Thanos Lakes 21 Italy COCA3 YES 1-1-2020
+900 Thanos Lakes 21 Italy COCA4 YES 1-1-2020
+9002 Thanos Lakes 21 Italy HANTAVIRUS YES 1-1-2020
+9003 Thanos Lakes 21 Italy HPV YES 1-1-2020
+9004 Thanos Lakes 21 Italy COCA5 YES 1-1-2020
+9005 Thanos Lakes 21 Italy COCA6 YES 1-1-2020
+9006 Thanos Lakes 21 Italy COCA7 YES 1-1-2020

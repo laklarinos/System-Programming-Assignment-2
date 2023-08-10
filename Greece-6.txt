@@ -1,0 +1,10 @@
+9000 Thanos Lakes 21 Greece COCA NO
+9000 Thanos Lakes 21 Greece HIV YES 1-1-2020
+9000 Thanos Lakes 21 Greece HPV YES 1-1-2020
+9000 Thanos Lakes 21 Greece HANTAVIRUS YES 1-1-2020
+9001 Thanos Lakes 21 Greece HPV YES 1-1-2020
+9002 Thanos Lakes 21 Greece HANTAVIRUS YES 1-1-2020
+9003 Thanos Lakes 21 Greece HPV YES 1-1-2020
+9004 Thanos Lakes 21 Greece HANTAVIRUS YES 1-1-2020
+9005 Thanos Lakes 21 Greece HPV YES 1-1-2020
+9006 Thanos Lakes 21 Greece HANTAVIRUS YES 1-1-2020
